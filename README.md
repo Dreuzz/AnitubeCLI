@@ -15,5 +15,4 @@ A CLI tool which fetches anime links and makes them watchable in the browser
 > - Add manga reader
 > - Redesign the UI
 
-
-[![Foo](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/ghpages_64h.png)](anitube-docs.vercel.app/)
+[<img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/ghpages_64h.png">](https://anitube-docs.vercel.app/)
